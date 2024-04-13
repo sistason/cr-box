@@ -1,6 +1,6 @@
 # CR Box
 
-DIY build of a Corgi-Rosenthal box air filter
+DIY build of a Corsi-Rosenthal box air filter
 
 ## Parts
 
